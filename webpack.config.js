@@ -53,7 +53,7 @@ const config = {
       description: 'An app that allows you to view upcoming food events.',
       start_url: '../index.html',
       background_color: '#01579b',
-      theme_color: '#ffffff',
+      theme_color: '#bffff3',
       fingerprints: false,
       inject: false,
       icons: [
