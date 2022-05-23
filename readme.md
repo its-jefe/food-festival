@@ -1,5 +1,7 @@
 # Module 19 : PWA Coding Walkthrough
+## Progressive Web Application coding practice
 
+---
 # Food Festival (PWA for a Food Festival)
 
 > Festivals are notorious for hogging up and bogging down those cellular bars. 
@@ -9,9 +11,10 @@
 > Thats right, with this PWA you can enjoy the food festival with no cell service. 
 
 > When you get service the app will update itself
+---
+Can be downloaded from the home page
 
-## Progressive Web Application coding practice
-
+---
 ### WHAT I LEARNED
 - How to use a `manifest.json` in our projects, and how that will work along with a service worker to make our app a `PWA`.
 - How to link a manifest to the HTML to let the browser know the app is a `PWA`.
