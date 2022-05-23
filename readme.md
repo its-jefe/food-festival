@@ -2,8 +2,6 @@
 
 ## Progressive Web Application coding practice
 
-### Getting ready for React
-
 - How to use a `manifest.json` in our projects, and how that will work along with a service worker to make our app a `PWA`.
 - How to link a manifest to the HTML to let the browser know the app is a `PWA`.
 - How to use `webpack` to dynamically create a `manifest.json` based on configurations provided in `webpack.config.js`.
