@@ -12,7 +12,8 @@
 
 > When you get service the app will update itself
 ---
-Can be downloaded from the home page
+### Can be downloaded from the home page
+Deployed: https://its-jefe.github.io/food-festival/
 
 ---
 ### WHAT I LEARNED
@@ -27,5 +28,3 @@ Can be downloaded from the home page
 - Learned how to use an automated build tool like `webpack` to `bundle` assets through a dependency graph to optimize performance by `lazy loading` and `minification`.
 - Used `service workers` to `cache` the websites assets for offline functionality.
 - Offered installable icons for quick access to our app using `PWAs`.
-
-Deployed: https://its-jefe.github.io/food-festival/
